@@ -1,0 +1,11 @@
+A stack is useful for the compiler/operating system to store local variables used inside a function block,so that they can be discarded once the control comes out of the function block.
+ A stack can be used as an "undo" mechanism in text editors; this operation has been accomplished by keeping all text changes in a stack.
+
+ Stacks are useful in backtracking, which is a process when you need to access the most recent data element in a series of elements.
+
+ An important application of stacks is in parsing. For example, a compiler must parse arithmetic expressions written using infix notation
+
+It can be used to process function calls and implementing recursive functions. The return values and addresses of the function will be pushed into the stack and the lastly invoked function will first return the value by popping the stack. 
+
+In language processing, space for parameters and local variables is created internally using a stack. Compiler's syntax check for matching braces is implemented by using stack. 
+

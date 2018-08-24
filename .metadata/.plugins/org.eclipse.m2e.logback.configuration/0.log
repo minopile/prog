@@ -1,0 +1,3 @@
+2018-04-01 22:08:50,574 [main] INFO  c.t.i.a.b.BridgeConnectorRegistryProvider - No additional connectors were loaded from /home/red/.local/share/umake/ide/eclipse/connectors.
+2018-04-01 22:08:50,609 [main] INFO  c.t.i.a.cache.MemoryOperationCache - Using CacheBuilder settings: CacheBuilder{initialCapacity=1000, concurrencyLevel=10, maximumSize=3000, expireAfterWrite=86400000000000ns, expireAfterAccess=43200000000000ns}
+2018-04-01 22:08:54,280 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
